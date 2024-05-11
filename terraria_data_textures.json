@@ -1,5 +1,166 @@
 [
   {
+    "id": "c34cde46-1fb7-4d5f-8ea6-8c314cb47581",
+    "type_id": "5",
+    "name": "Polaris",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/polaris/polaris.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/polaris/polaris_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/polaris/polaris_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/polaris/polaris_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/polaris/polaris_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/polaris/polaris_05.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/polaris/polaris_06.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/polaris/polaris_07.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/polaris/polaris_08.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/polaris/polaris.zip",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "Immerse yourself in a world of complete delight and wonder with the 'Polaris' texture pack for the game Terraria. Despite the initial impression of its modesty, this package packs a rich depth of change, weaving together some 676 sprites. From subtle adjustments to complete design transformations, 'Polaris' transforms every moment of play into a unique journey.\n\nIce Splendor:\nBring the atmosphere of arctic beauty into your world with completely redesigned sprites. Snowy landscapes and sparkling crystals will create the impression of a real winter miracle.\nSeasonal Variations:\nGive in to the magic of the seasons with updates that transform your experience depending on the season. From spring awakening to a winter wonderland, 'Polaris' is always ready to immerse you in the atmosphere of the appropriate season.\nIntegration with the 'Frosted Forest' mod:\nEnrich your gameplay by combining 'Polaris' with the 'Frosted Forest' mod. This combination will transform your world into a thrilling journey through snowy forests and snow-capped peaks, creating the perfect winter wonderland no matter your current biome.\nDetailed Changes:\n'Polaris' offers not only visual pleasure, but also carefully crafted changes that add new layers to your gaming aesthetic. From the smallest details to extensive transformations, each sprite brings with it its own unique contribution to the visual world of Terraria.\nImmerse yourself in the magic of 'Polaris' and discover new dimensions of your Terraria adventure. With this texture pack, your journey will never be monotonous, and every moment will be filled with surprise and delight.",
+    "size": "",
+    "tags": [],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "3deeb409-f25b-4f2e-9e22-fcc8e8e9c40b",
+    "type_id": "5",
+    "name": "PRIME",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/prime/prime.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/prime/prime_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/prime/prime_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/prime/prime_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/prime/prime_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/prime/prime_05.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/prime/prime.zip",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "The PRIME texture pack is one of the most extensive and constantly updated texture packs for the game Terraria. Containing nearly 700 modified items and mobs, this pack has its own active community where users can make suggestions and vote on whether new items will be added. This ensures continuous development and many creative ideas embodied in the texture pack.\n\nExtent of changes:\nOver 700 modified elements and mobs, giving the game a new visual look.\nThe variety of changes includes textures for blocks, weapons, armor, items, furniture and more.\nActive Community:\nThe presence of its own community where users can share their ideas and vote for their preferred changes.\nThe opportunity for any participant to contribute to the development of the package by proposing new textures or designs.\nPreserving the original style:\nThe focus of the texture pack is on maintaining the Terraria style familiar to players, while adding new elements to improve the aesthetics of the game.\nSuitable for those who appreciate small but noticeable changes in the visual design of the game.\nBeauty and Aesthetics:\n\"PRIME\" offers beautiful and detailed textures that complement and enhance the visual experience of the game.\nA great choice for players looking to add a little new visual experience to their game while maintaining the original spirit of Terraria.\nThe PRIME texture pack is the perfect combination of extensive changes, active community participation, and preservation of the original Terraria aesthetic, making it an attractive choice for anyone who appreciates quality texture modifications to the game.",
+    "size": "",
+    "tags": [],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "8f9355d7-9a7f-4704-b28d-fe11ec1ae2b8",
+    "type_id": "5",
+    "name": "Jimmarn's Official",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/jimmarns_official/jimmarns_official.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/jimmarns_official/jimmarns_official_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/jimmarns_official/jimmarns_official_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/jimmarns_official/jimmarns_official_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/jimmarns_official/jimmarns_official_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/jimmarns_official/jimmarns_official_05.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/jimmarns_official/jimmarns_official_06.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/jimmarns_official/jimmarns_official_07.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/jimmarns_official/jimmarns_official_08.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/jimmarns_official/jimmarns_official_09.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/jimmarns_official/jimmarns_official.zip",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "Jimmarn's Official is a texture pack for Terraria that stands out in the high quality detail category. When you purchase Terraria on Steam, you are given access to various texture packs, and Jimmarn's Official is one of the best options, as evidenced by its high rating and popularity among players.\n\nDetailed study: Every texture in Jimmarn's Official is carefully crafted to create a stunning visual experience.\nUnique Style: This package offers its own unique style that adds an air of wonder and inspires new adventures.\nExtended set: From blocks to bosses, weapons to furniture, everything has been changed and improved for your enjoyment.\nWhy you should try:\nComplete transformation: Imagine the familiar world of Terraria, but now completely new and unpredictable.\nInspiring Experience: Jimmarn's Official makes you see the game in a new light, inspiring new strategies and ideas.\nContinuous Update: The authors are constantly working to improve and add new content, ensuring freshness and variety.\n\"Jimmarn's Official\" is not just a texture pack, it is a new adventure that every Terraria fan should experience. Immerse yourself in its amazing world and discover something completely new!",
+    "size": "",
+    "tags": [],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "bbd184d3-5d43-4210-b1f1-5096f60222ff",
+    "type_id": "5",
+    "name": "Fisharia",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/fisharia/fisharia.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/fisharia/fisharia_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/fisharia/fisharia_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/fisharia/fisharia_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/fisharia/fisharia_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/fisharia/fisharia_05.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/fisharia/fisharia.zip",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "Fisharia is a unique texture pack for the game Terraria, created specifically for those who appreciate marine fauna. Unlike many other texture packs, Fisharia focuses on transforming hostile mobs, giving them the appearance of fancy fish.\n\nFish bosses and creatures: Fisharia reworks bosses and other hostile creatures, giving them a unique sea look. Now every boss and mob is represented by bright and exciting fish, which makes encounters with them unique.\nUnique Design: Fisharia is designed with every detail in mind. Each fish mob has a unique style and character, which adds a touch of magic and surprise to the game.\nDive into the sea world: Forget about boring battles with monotonous monsters. With Fisharia, every enemy encounter turns into an exciting underwater adventure filled with amazing creatures.\nImproved visuals: Fisharia makes the game more vibrant and colorful. Breathtaking animations and vibrant textures transform the world of Terraria into a magical underwater kingdom.\nFisharia is not just a texture pack, it is an immersion into the wonderful world of marine fauna right inside Terraria. With incredible fish bosses and creatures that come to life in a unique style, this texture pack makes the game even more exciting and unpredictable. Dive into the depths of the ocean and discover new adventures with Fisharia!",
+    "size": "",
+    "tags": [],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "33ef96c3-5c94-49e8-ad99-32d5fc33d663",
+    "type_id": "5",
+    "name": "Fierphx' Tweaked Mechs",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/fierphx_tweaked_mechs/fierphx_tweaked_mechs.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/fierphx_tweaked_mechs/fierphx_tweaked_mechs_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/fierphx_tweaked_mechs/fierphx_tweaked_mechs_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/fierphx_tweaked_mechs/fierphx_tweaked_mechs_03.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/fierphx_tweaked_mechs/fierphx_tweaked_mechs.zip",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "Fierphx' Tweaked Mechs Texture Pack for Terraria is a modification that offers improved textures for the game's furs, adding a new style and visual update to them.\n\nThe texture pack focuses on fine detail and vibrant colors, turning standard mech sprites into eye-catching designs. Each mech model gets its own set of individual textures, allowing players to easily differentiate between different mech variants.",
+    "size": "",
+    "tags": [],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
+    "id": "5b81047c-cc3c-4a1f-a7aa-239c06606013",
+    "type_id": "5",
+    "name": "Don't Starve Queen Bee",
+    "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/dont_starve_queen_bee/dont_starve_queen_bee.png",
+    "images_url": [
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/dont_starve_queen_bee/dont_starve_queen_bee_01.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/dont_starve_queen_bee/dont_starve_queen_bee_02.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/dont_starve_queen_bee/dont_starve_queen_bee_03.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/dont_starve_queen_bee/dont_starve_queen_bee_04.png",
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/dont_starve_queen_bee/dont_starve_queen_bee_05.png"
+    ],
+    "difficulty": {
+      "0": "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/dont_starve_queen_bee/dont_starve_queen_bee.zip",
+      "1": "",
+      "2": "",
+      "3": ""
+    },
+    "author_name": "unknown",
+    "description": "Queen Bee is a pre-Hardmode boss. She is summoned by smashing a Maggot inside bee hives in the Underground Jungle or by using Ugliness anywhere in the jungle. Defeating Queen Bee for the first time allows the NPC Sorcerer to move into an available vacant house.",
+    "size": "",
+    "tags": [],
+    "hot_priority": "1",
+    "download_count": "0",
+    "createTime": "2024-03-10 22:14:30.089"
+  },
+  {
     "id": "26d7f301-7e47-4fb6-83cc-0caff7acb2eb",
     "type_id": "5",
     "name": "Waifu Player XXL [NSFW]",
@@ -197,8 +358,7 @@
       "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/waifu_player_ultimate_edition_nsfw/waifu_player_ultimate_edition_nsfw_05.png",
       "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/waifu_player_ultimate_edition_nsfw/waifu_player_ultimate_edition_nsfw_06.png",
       "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/waifu_player_ultimate_edition_nsfw/waifu_player_ultimate_edition_nsfw_07.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/waifu_player_ultimate_edition_nsfw/waifu_player_ultimate_edition_nsfw_08.png",
-      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/waifu_player_ultimate_edition_nsfw/waifu_player_ultimate_edition_nsfw_09.png"
+      "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/waifu_player_ultimate_edition_nsfw/waifu_player_ultimate_edition_nsfw_08.png"
     ],
     "difficulty": {
       "0": "https://raw.githubusercontent.com/LeDinhTrong/db_textures/master/waifu_player_ultimate_edition_nsfw/waifu_player_ultimate_edition_nsfw.zip",
